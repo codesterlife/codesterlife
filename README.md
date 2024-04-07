@@ -10,7 +10,7 @@
 
 ![I Love Open Source](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source-150x25.png)
 
-
+![made-in-kunnamkulam](https://raw.githubusercontent.com/TheoIsDumb/charapara/master/static/kunnamkulam_optimized.svg)
 
 <!--
 **codesterlife/codesterlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
